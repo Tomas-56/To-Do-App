@@ -1,0 +1,35 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Brush x:Key="warmOrange-Buttons-Brush">
+        #e15e40
+    </Brush>
+    <Brush x:Key="darkBrown-Text-Brush">
+        #FF252323
+    </Brush>
+    <Brush x:Key="brown-Background-Brush">
+        #FF48443F
+    </Brush>
+    <Brush x:Key="brightBrown-Overlay-Brush">
+        #D8CFC0
+    </Brush>
+    <Brush x:Key="whiteAmber-Background-Brush">
+        #FFFDF9EC
+    </Brush>
+
+    <Color x:Key="warmOrange-Buttons-Color">
+        #e15e40
+    </Color>
+    <Color x:Key="darkBrown-Text-Color">
+        #FF252323
+    </Color>
+    <Color x:Key="brown-Background-Color">
+        #FF48443F
+    </Color>
+    <Color x:Key="brightBrown-Overlay-Color">
+        #D8CFC0
+    </Color>
+    <Color x:Key="whiteAmber-Background-Color">
+        #FFFDF9EC
+    </Color>
+</ResourceDictionary>
