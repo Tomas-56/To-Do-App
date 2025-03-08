@@ -4,24 +4,23 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:ToDoWPF.View"
-             mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
+             mc:Ignorable="d"
+             
+             Height="600" Width="800">
     <Grid Background="{StaticResource brown-Background-Brush}">
         
         <Grid.RowDefinitions>
-            <RowDefinition Height="120" />
+            <RowDefinition Height="100" />
             <RowDefinition Height="10"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
         
         <StackPanel  Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center">
-            <Label Content="ToDo" FontSize="42" Width="Auto" Foreground="{StaticResource darkBrown-Text-Brush}" FontFamily="{StaticResource FontFromDictionary}" ></Label>
-            <Button Margin="200,0,0,0" Content="+Add">
+            <Label Content="ToDo" FontSize="42" Width="Auto" Foreground="{StaticResource darkBrown-Text-Brush}" FontFamily="{StaticResource FontFromDictionary}" FontWeight="Bold"  />
+            <Button Margin="450,0,25,0" Content="+Add" Style="{StaticResource ButtonStyle1}">
                 
             </Button>
-            <Button Style="{DynamicResource ButtonStyle1}" Content="-Remove">
-                
-            </Button>
+            <Button  Content="-Remove" Style="{StaticResource ButtonStyle1}"/>
         </StackPanel>
 
         <Rectangle Grid.Row="1" Fill="{StaticResource brightBrown-Overlay-Brush}">
@@ -31,6 +30,7 @@
         <Rectangle Grid.Row="2" Fill="{StaticResource whiteAmber-Background-Brush}">
             
         </Rectangle>
+
         
     </Grid>
 </UserControl>

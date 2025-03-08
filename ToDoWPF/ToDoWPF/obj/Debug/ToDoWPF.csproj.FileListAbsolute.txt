@@ -18,3 +18,5 @@ C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\ToDoWPF.pdb
 C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\Resources\Colors\ColorsDictionaryxaml.baml
 C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\View\TaskPanelView.g.cs
 C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\View\TaskPanelView.baml
+C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\Resources\Styles\ButtonDictionary.baml
+C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
