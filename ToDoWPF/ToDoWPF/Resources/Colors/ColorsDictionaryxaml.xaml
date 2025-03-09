@@ -14,7 +14,7 @@
         #D8CFC0
     </Brush>
     <Brush x:Key="whiteAmber-Background-Brush">
-        #FFFDF9EC
+        #FDF9EC 
     </Brush>
 
     <Color x:Key="warmOrange-Buttons-Color">

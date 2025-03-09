@@ -56,6 +56,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Model\TaskModel.cs" />
+    <Compile Include="View\AddTaskPopUpView.xaml.cs">
+      <DependentUpon>AddTaskPopUpView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\TaskPanelView.xaml.cs">
       <DependentUpon>TaskPanelView.xaml</DependentUpon>
     </Compile>
@@ -80,6 +83,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Resources\Styles\ButtonDictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\AddTaskPopUpView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

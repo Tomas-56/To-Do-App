@@ -20,3 +20,5 @@ C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\View\TaskPanelView.g.c
 C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\View\TaskPanelView.baml
 C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\Resources\Styles\ButtonDictionary.baml
 C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\View\AddTaskPopUpView.g.cs
+C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\obj\Debug\View\AddTaskPopUpView.baml

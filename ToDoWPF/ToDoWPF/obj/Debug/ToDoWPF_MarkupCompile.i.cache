@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\_repos\MainToDoApp\To-Do-App\ToDoWPF\ToDoWPF\App.xaml
-5-248163535
+6228062521
 
-8952638273
+9903917953
 13-1310406943
-MainWindow.xaml;Resources\Colors\ColorsDictionaryxaml.xaml;Resources\Fonts\FontsDictionary.xaml;Resources\Styles\ButtonDictionary.xaml;View\TaskPanelView.xaml;
+MainWindow.xaml;Resources\Colors\ColorsDictionaryxaml.xaml;Resources\Fonts\FontsDictionary.xaml;Resources\Styles\ButtonDictionary.xaml;View\AddTaskPopUpView.xaml;View\TaskPanelView.xaml;
 
 True
 
