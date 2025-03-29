@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace ToDoWPF.Model
 {
@@ -32,7 +28,13 @@ namespace ToDoWPF.Model
 			set { _isDone = value; }
 		}
 
+        public TaskModel(string description, bool isDone)
+        {
+			this.Description = description;
+			this.IsDone = isDone;
 
+        }
 
-	}
+        
+    }
 }

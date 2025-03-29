@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:ToDoWPF.View"
              mc:Ignorable="d"
-             Height="600" Width="800">
+             Height="500" Width="800">
     <Grid Background="{StaticResource brown-Background-Brush}">
         
         <Grid.RowDefinitions>
@@ -16,19 +16,53 @@
         
         <StackPanel  Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center">
             <Label Content="ToDo" FontSize="42" Width="Auto" Foreground="{StaticResource darkBrown-Text-Brush}" FontFamily="{StaticResource FontFromDictionary}" FontWeight="Bold"  />
-            <Button Margin="450,0,25,0" Content="+Add" Style="{StaticResource ButtonStyle1}">
+            
+            <Button Margin="500,0,0,0" Content="+Add" Style="{StaticResource ButtonStyle1}"
+                    Command="{Binding AddCommand}">
                 
             </Button>
-            <Button  Content="-Remove" Style="{StaticResource ButtonStyle1}"/>
+
+            <Button  Content="-Remove" Style="{StaticResource ButtonStyle1}" Command="{Binding RemoveCommand}" />
         </StackPanel>
 
         <Rectangle Grid.Row="1" Fill="{StaticResource brightBrown-Overlay-Brush}">
             
         </Rectangle>
+
+        <TextBox Grid.Row="0" Height="50" Width="400" 
+                 Background="Transparent" BorderBrush="{StaticResource darkBrown-Text-Brush}"
+                 BorderThickness="2" FontFamily="{StaticResource FontFromDictionary}" 
+                 FontSize="24"  VerticalContentAlignment="Center"
+                 Text="{Binding NewTask}"></TextBox>
         
         <Rectangle Grid.Row="2" Fill="{StaticResource whiteAmber-Background-Brush}">
             
         </Rectangle>
+        
+        <ListView Grid.Row="2" ItemsSource="{Binding Tasks}" SelectedItem="{Binding Selected}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+
+                        <TextBlock Text="{Binding Description}" 
+                                   FontFamily="{StaticResource FontFromDictionary}" 
+                                   FontSize="24"
+                                   TextDecorations="{Binding StrikeDecoration }" >
+                                  
+                        </TextBlock>
+                        
+                        <CheckBox BorderBrush="{StaticResource warmOrange-Buttons-Brush}" 
+                        HorizontalAlignment="Center" IsChecked="{Binding IsDone}" 
+                        Command="{Binding SetDoneCommand}"   VerticalAlignment="Center">
+                            
+                        </CheckBox>
+
+                        
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
 
         
     </Grid>

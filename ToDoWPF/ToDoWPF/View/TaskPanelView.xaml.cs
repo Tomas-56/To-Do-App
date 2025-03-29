@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using ToDoWPF.ViewModel;
 
 namespace ToDoWPF.View
 {
@@ -22,7 +23,11 @@ namespace ToDoWPF.View
     {
         public TaskPanelView()
         {
+            TaskPanelViewModel taskPanelViewModel = new TaskPanelViewModel();
+            DataContext = taskPanelViewModel;
             InitializeComponent();
         }
+
+        
     }
 }

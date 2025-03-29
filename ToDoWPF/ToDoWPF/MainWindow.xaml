@@ -6,12 +6,12 @@
         xmlns:local="clr-namespace:ToDoWPF"
         xmlns:view="clr-namespace:ToDoWPF.View"
         mc:Ignorable="d"
-        Title="MainWindow" Height="200" Width="400"
+        Title="MainWindow" Height="500" Width="800"
         ResizeMode="CanMinimize"
         >
     
     <Grid>
-        <view:AddTaskPopUpView></view:AddTaskPopUpView>
+        <view:TaskPanelView></view:TaskPanelView>
         
     </Grid>
 </Window>
