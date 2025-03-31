@@ -4,14 +4,6 @@ namespace ToDoWPF.Model
 {
     internal class TaskModel
     {
-		private string _taskName;
-
-		public string TaskName
-		{
-			get { return _taskName; }
-			set { _taskName = value; }
-		}
-
 		private string _description;
 
 		public string Description
@@ -32,9 +24,6 @@ namespace ToDoWPF.Model
         {
 			this.Description = description;
 			this.IsDone = isDone;
-
         }
-
-        
     }
 }

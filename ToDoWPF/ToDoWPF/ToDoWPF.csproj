@@ -122,6 +122,8 @@
   <ItemGroup>
     <Resource Include="Resources\Fonts\OFL.txt" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="TasksData.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

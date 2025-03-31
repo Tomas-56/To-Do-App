@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using System.Windows;
-using System.Windows.Media;
 using ToDoWPF.Commands;
 using ToDoWPF.Model;
 
@@ -16,7 +11,6 @@ namespace ToDoWPF.ViewModel
         public RelayCommand SetDoneCommand { get; }
 
         private TextDecorationCollection _strikeDecoration;
-
         public TextDecorationCollection StrikeDecoration
         {
             get { return _strikeDecoration; }
@@ -24,7 +18,6 @@ namespace ToDoWPF.ViewModel
         }
 
         public string Description { get { return _taskModel.Description; } set { _taskModel.Description = value; OnPropertyChanged("Description"); } }
-
         public bool IsDone { get { return _taskModel.IsDone; } set { _taskModel.IsDone = value; } }
 
 
@@ -32,25 +25,20 @@ namespace ToDoWPF.ViewModel
         {
             _taskModel = taskModel;
             SetDoneCommand = new RelayCommand(SetDone);
-
         }
 
         public void SetDone(object parameter) 
         {
-            
             if (IsDone == true)
             {
                 StrikeDecoration = new TextDecorationCollection(TextDecorations.Strikethrough);
-                
             }
             else 
             {
                 StrikeDecoration = new TextDecorationCollection();
-
             }
 
             IsDone = !IsDone;
         }
-
     }
 }
