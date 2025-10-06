@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\tasksdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\tasksdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\viewmodel\\taskpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|c:\\_repos\\maintodoapp\\to-do-app\\todowpf\\todowpf\\viewmodel\\taskpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\viewmodel\\taskpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|c:\\_repos\\maintodoapp\\to-do-app\\todowpf\\todowpf\\view\\taskpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\view\\taskpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\viewmodel\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\viewmodel\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\resources\\styles\\buttondictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\resources\\styles\\buttondictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\viewmodel\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\viewmodel\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\isdonedata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\isdonedata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\view\\taskpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\view\\taskpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\view\\taskpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\view\\taskpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\resources\\colors\\colorsdictionaryxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -41,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\view\\taskpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\view\\taskpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|solutionrelative:todowpf\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D88186F1-FE41-4E6F-96A9-DD3C984A189F}|ToDoWPF\\ToDoWPF.csproj|C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\todowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -74,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,93 +74,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TasksData.txt",
-              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\TasksData.txt",
-              "RelativeDocumentMoniker": "ToDoWPF\\TasksData.txt",
-              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\TasksData.txt",
-              "RelativeToolTip": "ToDoWPF\\TasksData.txt",
+              "DocumentIndex": 3,
+              "Title": "IsDoneData.txt",
+              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\IsDoneData.txt",
+              "RelativeDocumentMoniker": "ToDoWPF\\IsDoneData.txt",
+              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\IsDoneData.txt",
+              "RelativeToolTip": "ToDoWPF\\IsDoneData.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-30T14:00:16.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T18:01:21.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskPanelViewModel.cs",
-              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\ViewModel\\TaskPanelViewModel.cs",
-              "RelativeDocumentMoniker": "ToDoWPF\\ViewModel\\TaskPanelViewModel.cs",
-              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\ViewModel\\TaskPanelViewModel.cs",
-              "RelativeToolTip": "ToDoWPF\\ViewModel\\TaskPanelViewModel.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:17:51.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FontsDictionary.xaml",
-              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Fonts\\FontsDictionary.xaml",
-              "RelativeDocumentMoniker": "ToDoWPF\\Resources\\Fonts\\FontsDictionary.xaml",
-              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Fonts\\FontsDictionary.xaml",
-              "RelativeToolTip": "ToDoWPF\\Resources\\Fonts\\FontsDictionary.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-01T13:27:09.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ColorsDictionaryxaml.xaml",
-              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Colors\\ColorsDictionaryxaml.xaml",
-              "RelativeDocumentMoniker": "ToDoWPF\\Resources\\Colors\\ColorsDictionaryxaml.xaml",
-              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Colors\\ColorsDictionaryxaml.xaml",
-              "RelativeToolTip": "ToDoWPF\\Resources\\Colors\\ColorsDictionaryxaml.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-02T13:28:07.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ButtonDictionary.xaml",
-              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Styles\\ButtonDictionary.xaml",
-              "RelativeDocumentMoniker": "ToDoWPF\\Resources\\Styles\\ButtonDictionary.xaml",
-              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Styles\\ButtonDictionary.xaml",
-              "RelativeToolTip": "ToDoWPF\\Resources\\Styles\\ButtonDictionary.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-02T15:03:02.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskModel.cs",
-              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Model\\TaskModel.cs",
-              "RelativeDocumentMoniker": "ToDoWPF\\Model\\TaskModel.cs",
-              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Model\\TaskModel.cs",
-              "RelativeToolTip": "ToDoWPF\\Model\\TaskModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T13:42:54.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TaskViewModel.cs",
               "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\ViewModel\\TaskViewModel.cs",
               "RelativeDocumentMoniker": "ToDoWPF\\ViewModel\\TaskViewModel.cs",
               "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\ViewModel\\TaskViewModel.cs",
               "RelativeToolTip": "ToDoWPF\\ViewModel\\TaskViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:56:36.85Z"
+              "WhenOpened": "2025-07-18T19:11:17.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Model\\TaskModel.cs",
+              "RelativeDocumentMoniker": "ToDoWPF\\Model\\TaskModel.cs",
+              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Model\\TaskModel.cs",
+              "RelativeToolTip": "ToDoWPF\\Model\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:30:17.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskPanelViewModel.cs",
+              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\ViewModel\\TaskPanelViewModel.cs",
+              "RelativeDocumentMoniker": "ToDoWPF\\ViewModel\\TaskPanelViewModel.cs",
+              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\ViewModel\\TaskPanelViewModel.cs",
+              "RelativeToolTip": "ToDoWPF\\ViewModel\\TaskPanelViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:29:49.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\ViewModel\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "ToDoWPF\\ViewModel\\BaseViewModel.cs",
@@ -180,15 +135,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TaskPanelView.xaml",
               "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\View\\TaskPanelView.xaml",
               "RelativeDocumentMoniker": "ToDoWPF\\View\\TaskPanelView.xaml",
               "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\View\\TaskPanelView.xaml",
               "RelativeToolTip": "ToDoWPF\\View\\TaskPanelView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-02T13:40:11.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T13:40:11.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskPanelView.xaml.cs",
+              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\View\\TaskPanelView.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoWPF\\View\\TaskPanelView.xaml.cs",
+              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\View\\TaskPanelView.xaml.cs",
+              "RelativeToolTip": "ToDoWPF\\View\\TaskPanelView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:17:35.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorsDictionaryxaml.xaml",
+              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Colors\\ColorsDictionaryxaml.xaml",
+              "RelativeDocumentMoniker": "ToDoWPF\\Resources\\Colors\\ColorsDictionaryxaml.xaml",
+              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Colors\\ColorsDictionaryxaml.xaml",
+              "RelativeToolTip": "ToDoWPF\\Resources\\Colors\\ColorsDictionaryxaml.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T13:28:07.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FontsDictionary.xaml",
+              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Fonts\\FontsDictionary.xaml",
+              "RelativeDocumentMoniker": "ToDoWPF\\Resources\\Fonts\\FontsDictionary.xaml",
+              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Resources\\Fonts\\FontsDictionary.xaml",
+              "RelativeToolTip": "ToDoWPF\\Resources\\Fonts\\FontsDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T13:27:09.829Z"
             },
             {
               "$type": "Document",
@@ -205,18 +193,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Commands\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "ToDoWPF\\Commands\\RelayCommand.cs",
-              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\Commands\\RelayCommand.cs",
-              "RelativeToolTip": "ToDoWPF\\Commands\\RelayCommand.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T18:42:15.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "App.config",
               "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\App.config",
               "RelativeDocumentMoniker": "ToDoWPF\\App.config",
@@ -228,31 +204,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\App.xaml",
               "RelativeDocumentMoniker": "ToDoWPF\\App.xaml",
               "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\App.xaml",
               "RelativeToolTip": "ToDoWPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-01T10:26:23.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T10:26:23.968Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TaskPanelView.xaml.cs",
-              "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\View\\TaskPanelView.xaml.cs",
-              "RelativeDocumentMoniker": "ToDoWPF\\View\\TaskPanelView.xaml.cs",
-              "ToolTip": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\View\\TaskPanelView.xaml.cs",
-              "RelativeToolTip": "ToDoWPF\\View\\TaskPanelView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:17:35.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ToDoWPF\\MainWindow.xaml",
@@ -263,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\_repos\\MainToDoApp\\To-Do-App\\ToDoWPF\\ToDoWPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "ToDoWPF\\App.xaml.cs",

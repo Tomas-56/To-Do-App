@@ -125,5 +125,8 @@
   <ItemGroup>
     <Resource Include="TasksData.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IsDoneData.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

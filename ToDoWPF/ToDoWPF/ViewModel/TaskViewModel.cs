@@ -7,6 +7,7 @@ namespace ToDoWPF.ViewModel
 {
     internal class TaskViewModel : BaseViewModel
     {
+        public string isDoneData = @"..\..\IsDoneData.txt";
         private TaskModel _taskModel;
         public RelayCommand SetDoneCommand { get; }
 

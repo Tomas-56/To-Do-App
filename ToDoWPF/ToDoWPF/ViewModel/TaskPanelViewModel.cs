@@ -1,4 +1,4 @@
-﻿
+﻿ 
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.IO;
@@ -10,7 +10,7 @@ namespace ToDoWPF.ViewModel
 {
     internal class TaskPanelViewModel : BaseViewModel
     {
-        public static string path = @"..\..\TasksData.txt";
+        public static string taskNamePath = @"..\..\TasksData.txt";
         List<string> tasksStrings;
         TaskViewModel newTaskViewModel;
         public RelayCommand AddCommand { get; }
@@ -47,7 +47,7 @@ namespace ToDoWPF.ViewModel
             RemoveCommand = new RelayCommand(Remove);
             tasksStrings = new List<string>();
 
-            tasksStrings = File.ReadAllLines(path).ToList();
+            tasksStrings = File.ReadAllLines(taskNamePath).ToList();
 
             for (int i = 0; i < tasksStrings.Count; i++) 
             {
@@ -60,11 +60,13 @@ namespace ToDoWPF.ViewModel
             newTaskViewModel = new TaskViewModel(new TaskModel(NewTask, false));
 			Tasks.Add(newTaskViewModel);
             tasksStrings.Add(NewTask);
-            File.WriteAllLines(path, tasksStrings);
+            File.WriteAllLines(taskNamePath, tasksStrings);
 		}
 
         public void Remove(object parameter) 
         {
+            if (Selected != null) { 
+
             List<string> temp = new List<string>();
             foreach (var taskString in tasksStrings) 
             {
@@ -74,9 +76,11 @@ namespace ToDoWPF.ViewModel
                 }
             }
 
-            File.WriteAllLines(path,temp);
+            File.WriteAllLines(taskNamePath, temp);
             tasksStrings = temp;
             Tasks.Remove(Selected);
+
+            }
         }
     }
 }

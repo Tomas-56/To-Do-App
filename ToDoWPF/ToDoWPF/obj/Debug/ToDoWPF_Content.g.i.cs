@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("tasksdata.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("isdonedata.txt")]
 
 
